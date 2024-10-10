@@ -1,4 +1,4 @@
-# READ-ME: Navigate Me iOS App - Tushar Sharma(8869110)
+# READ-ME: Navigate Me iOS App - Tushar Sharma
 
 ## Application Overview
 
